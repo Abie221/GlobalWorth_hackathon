@@ -4,11 +4,17 @@
 
 Welcome to **GreenPoints**, a gamified sustainability app built during our hackathon journey. This project is a collaborative effort to incentivize eco-friendly habits, foster community engagement, and reward positive impact. 🌍
 
+
+
 ---
 
 ## 🚀 Our Journey
 
 What started as a brainstorm around environmental impact and behavioral change quickly turned into a working MVP that tracks green habits, rewards users with points, and allows them to redeem those points for real-world or in-app benefits. We combined tech, design, and purpose to make sustainability fun and accessible.
+
+
+https://github.com/user-attachments/assets/d93fc66e-d382-4d2f-a1ae-7e0c0bcd9d34
+
 
 ---
 
