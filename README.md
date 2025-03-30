@@ -31,6 +31,13 @@ What started as a brainstorm around environmental impact and behavioral change q
    - Participate in local **events** 
    - Learn through educational content  and earn bonus points
    - Donate points for green causes 🌱
+  
+
+https://github.com/user-attachments/assets/c0fd251c-53b9-47aa-a721-de9271c374a9
+
+
+
+
 
 Everything is tracked with full relational integrity to ensure accurate data and easy reporting.
 
