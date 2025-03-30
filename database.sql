@@ -1,3 +1,4 @@
+-- Relational database schema for a green habit category
 -- Users table: stores user profile and authentication details
 CREATE TABLE users (
     id INT AUTO_INCREMENT PRIMARY KEY,
