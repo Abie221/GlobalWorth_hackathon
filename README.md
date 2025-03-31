@@ -1,4 +1,4 @@
-# Relational Database
+### Real Estate Hacakthon
 
 # ♻️ GreenPoints - Building a Habit for a Greener Future
 
